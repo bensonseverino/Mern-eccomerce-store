@@ -1,9 +1,3 @@
-# 🛒 MERN E-Commerce Website
-
-Welcome to the **MERN E-Commerce Website**! This project is a feature-rich e-commerce application built using the powerful MERN stack, complete with an intuitive user-facing store and an all-encompassing admin dashboard.
-
-## ✨ Features
-
 ### 🌟 User Frontend:
 
 - **🔒 Secure Authentication**: Register, login, and manage user profiles effortlessly.
